@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
  
 ## Anggota Kelompok 
 - Ananda Aulia Fuziah (2400393)
-- Nama Anggota 2  
+- Saskia Shofawatunnisa (2400686)
