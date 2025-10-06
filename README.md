@@ -2,7 +2,7 @@
  
 Repository ini digunakan untuk latihan kolaborasi 
 menggunakan Git dan GitHub.   
-Setiap anggota kelompok diminta untuk melakukan 
+Setiap anggota kelompok diminta untuk melakukan a
 perubahan pada file `data.txt`.   
  
 ## Anggota Kelompok 
